@@ -1,0 +1,12 @@
+.cm-s-solarized.cm-s-dark {
+    background: linear-gradient(to right, rgb(96 96 96), rgb(0 43 54));
+    text-shadow: none;
+}
+
+.max-w-7xl {
+    max-width: 100%;
+}
+
+.bullet-container.bullet-closed {
+  box-shadow: 0 0 0 4px var(--ls-block-bullet-border-color);
+}
